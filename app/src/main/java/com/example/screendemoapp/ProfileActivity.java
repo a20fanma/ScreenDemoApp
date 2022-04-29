@@ -17,4 +17,5 @@ public class ProfileActivity extends AppCompatActivity {
         TextView textView = findViewById(R.id.textView);
 
     }
+
 }
